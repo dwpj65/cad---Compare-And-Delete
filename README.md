@@ -2,9 +2,9 @@
 
 ### command line utility to recursively scan folders and delete files from source that have identical contents.
 
-usage: 
+usage: cad [source folder] [destination folder]
 
-Tested on unbunto linux and macOS
+Tested on ubunto linux and macOS
 
 Files originally created:
 
