@@ -1,6 +1,0 @@
-#!/bin/bash
-sudo mount -t vboxsf Shared share
-sudo mount -t vboxsf Burner burner
-sudo mount -t vboxsf Ripping ripping
-sudo chmod 777 share/Torrents/Threes\ Company\,\ Seasons\ 1-8\ \[H0neypoT\]/
-echo Done
